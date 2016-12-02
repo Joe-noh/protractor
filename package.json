@@ -27,7 +27,7 @@
     "source-map-support": "~0.2.6",
     "html-entities": "~1.1.1",
     "accessibility-developer-tools": "~2.6.0",
-    "webdriver-manager": "^10.2.6"
+    "webdriver-manager": "10.2.6"
   },
   "devDependencies": {
     "expect.js": "~0.2.0",
